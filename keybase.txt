@@ -1,0 +1,55 @@
+https://keybase.io/chez14
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chez14.github.io
+  * I am chez14 (https://keybase.io/chez14) on keybase.
+  * I have a public key ASBttUSt8XR5yR-9s29sFGYTLk7s7QAlT_pe2TL9qVK-rgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010134d965586bb6ced31aca6f6b779e53c512d92aa0877b2d759b20455e5b3188b30a",
+      "host": "keybase.io",
+      "kid": "01206db544adf17479c91fbdb36f6c1466132e4eeced00254ffa5ed932fda952beae0a",
+      "uid": "8961772c048845b7f666a030c83b8319",
+      "username": "chez14"
+    },
+    "merkle_root": {
+      "ctime": 1610956086,
+      "hash": "7bda5e5bdab9d1384e827ed58d0b91e210feee6d7f77978ebd9587f93e29b3d1c3f2aa2d01c1bdce4c22071b01691f028c9fa49bbfba1ce624ca365ab6b0c261",
+      "hash_meta": "854da16327ce221bc7f61bedbb4ada132fbe070d2ba6ba6a78ec66a091664959",
+      "seqno": 18814400
+    },
+    "service": {
+      "entropy": "CYcJX2Y6Gajslf3Taik3UnWC",
+      "hostname": "chez14.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1610956120,
+  "expire_in": 504576000,
+  "prev": "5dd614af99a3c5b7012263605229c9a53ca5def3ef3970742e72b23cb6975a1a",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbbVErfF0eckfvbNvbBRmEy5O7O0AJU/6Xtky/alSvq4Kp3BheWxvYWTESpcCHsQgXdYUr5mjxbcBImNgUinJpTyl3vPvOXB0LnKyPLaXWhrEIO4Q+9ohxqfeXa4pfx9ebM5hQhY+9dh0d5zi3XFrklcrAgHCo3NpZ8RARavEPxXhrQrJPGx9gpembg8P08cYmRaRol4Ho7daiHjnRrc5s/pdgLktVrlLT0Vr9naNKgkVX6VLx+N0ARHTCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPI3X4zqYXPwl6DkLFd11WHIF78t4LwMVX8kL7qW+iH4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chez14
+
+
